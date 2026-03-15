@@ -5,4 +5,4 @@ Download the zip file to test the program on the specific ticket program
 
 A complete summary report of the application is included, which outlines the logic and ideas behind the implementation for the expected result.
 
-
+[View Full Report](./report.pdf)
